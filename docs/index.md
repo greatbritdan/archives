@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to the Britdan Archives
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website will searve as the perminant home for all of my projects, old and new, going forward.
 
-## Commands
+This is everything from mappacks to mods to tilesets to projects and much, much more.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Work In Progress
+This website is still a massive work in progress, so please keep in mind that everything is still vulnerable to change. And typos will likely always appear but I do appriciate any reports.

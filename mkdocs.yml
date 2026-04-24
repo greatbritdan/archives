@@ -2,6 +2,9 @@ site_name: Britdan Archives
 site_url: https://greatbritdan.github.io/archives
 nav:
 - Home: index.md
+- Mappacks:
+  - mappacks/index.md
+  - Up And Away (1): mappacks/upandaway.md
 
 theme:
   name: material
@@ -15,8 +18,8 @@ theme:
 
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
-      accent: red
+      primary: blue
+      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -38,3 +41,4 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
