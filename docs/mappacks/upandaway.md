@@ -9,8 +9,10 @@ Up and Away is a portal puzzle mappack heavly inspired by portal, Originally rel
 
 ## Credits
 
-The original tileset was by reapergraff
+The original tileset was by [reapergraff](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=1350) ([Original Post](https://forum.stabyourself.net/viewtopic.php?p=68709#p68709)) 
 
 ## Downloads
 
-[Download Latest](https://greatbritdan.github.io/){ .md-button }
+[Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa1.zip){ .md-button }
+
+[Original Forum Post](https://forum.stabyourself.net/viewtopic.php?f=12&t=5196){ .md-button }
