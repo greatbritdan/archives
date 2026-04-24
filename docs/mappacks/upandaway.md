@@ -15,4 +15,4 @@ The original tileset was by [reapergraff](https://forum.stabyourself.net/memberl
 
 [Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa1.zip){ .md-button }
 
-[Original Forum Post](https://forum.stabyourself.net/viewtopic.php?f=12&t=5196){ .md-button }
+[Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5196){ .md-button }
