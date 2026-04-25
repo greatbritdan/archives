@@ -2,7 +2,7 @@
 
 !!! quote
 
-    *"explore an abandoned facility in run of an evil robot. involves many fun and challenging puzzles."*
+    *"Explore an abandoned facility in run of an evil robot. involves many fun and challenging puzzles."*
 
 === "Mappack Card"
 

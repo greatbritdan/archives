@@ -2,7 +2,7 @@
 
 !!! quote
 
-    *"explore the abandoned facility from 1 as it begins to reassemble after the fall of the robot. with 10+ new, original puzzles."*
+    *"Explore the abandoned facility from 1 as it begins to reassemble after the fall of the robot. with 10+ new, original puzzles."*
 
 === "Mappack Card"
 

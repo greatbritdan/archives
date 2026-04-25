@@ -36,6 +36,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
+    - toc.integrate
 
 extra:
   social:

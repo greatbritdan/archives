@@ -2,7 +2,7 @@
 
 !!! quote
 
-    *"after having her faculty destroyed she re assembled her test chambers in the Mario world. after being recaptured Mario now has to explore 40+ new tests."*
+    *"After having her faculty destroyed she re-assembled her test chambers in the Mario world. after being recaptured Mario now has to explore 40+ new tests."*
 
 === "Mappack Card"
 
