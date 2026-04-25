@@ -1,17 +1,17 @@
 # Up And Away (1)
 
+=== "Mappack Card"
+
+    <figure markdown="span">
+      ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/uaamappack.png)
+      <figcaption>The mappacks icon, name and description.</figcaption>
+    </figure>
+
 === "First Level"
 
     <figure markdown="span">
       ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/uaascreenshot.png)
       <figcaption>A screenshot of the first puzzle and level from the mappack.</figcaption>
-    </figure>
-
-=== "Mappack Card"
-
-    <figure markdown="span">
-      ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/uaamappack.png)
-      <figcaption>The mappacks Icon, name and description.</figcaption>
     </figure>
 
 === "Tileset"
