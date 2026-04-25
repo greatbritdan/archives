@@ -25,7 +25,7 @@
       <figcaption>The edited tileset used in the mappack.</figcaption>
     </figure>
 
-Up and Away 2 is a portal puzzle mappack heavly inspired by portal, based on the original mappack [Up and Away 1](https://greatbritdan.github.io/archives/mappacks/upandaway/) and released for Alesan'99s Entities, Originally released on the 3rd of April, 2018 being released just over 1 month after the original mappack. It's aged a lot worse than the original mappack and is not worth playing anymore.
+Up And Away 2 is a portal puzzle mappack heavly inspired by portal, based on the original mappack [Up and Away 1](https://greatbritdan.github.io/archives/mappacks/upandaway/) and released for Alesan99's Entities, Originally released on the 3rd of April, 2018 being released just over 1 month after the original mappack. It's aged a lot worse than the original mappack and is not worth playing anymore.
 
 ## Video
 

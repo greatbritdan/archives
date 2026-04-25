@@ -25,7 +25,7 @@
       <figcaption>The edited tileset used in the mappack.</figcaption>
     </figure>
 
-Up and Away is a portal puzzle mappack heavly inspired by portal released for Alesan'99s Entities, Originally released on the 25th of February, 2018. It was met with less than steller reviews but we all start somewhere, nowerdays it's not really a mappack that's worth playing.
+Up And Away is a portal puzzle mappack heavly inspired by portal released for Alesan99's Entities, Originally released on the 25th of February, 2018. It was met with less than steller reviews but we all start somewhere, nowerdays it's not really a mappack that's worth playing.
 
 ## Video
 

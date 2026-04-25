@@ -4,8 +4,8 @@ nav:
 - Home: index.md
 - Mappacks:
   - mappacks/index.md
-  - Up And Away (1): mappacks/upandaway.md
-  - Up And Away (2): mappacks/upandaway2.md
+  - Up And Away 1: mappacks/upandaway.md
+  - Up And Away 2: mappacks/upandaway2.md
 
 theme:
   name: material
