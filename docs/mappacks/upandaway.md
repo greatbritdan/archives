@@ -7,6 +7,13 @@
       <figcaption>A screenshot of the first puzzle and level from the mappack.</figcaption>
     </figure>
 
+=== "Mappack Card"
+
+    <figure markdown="span">
+      ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/uaamappack.png)
+      <figcaption>The mappacks Icon, name and description.</figcaption>
+    </figure>
+
 === "Tileset"
 
     <figure markdown="span">
@@ -30,4 +37,4 @@ The original tileset was by [reapergraff](https://forum.stabyourself.net/memberl
 
 ## Links
 
-[Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa1.zip){ .md-button } [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5196){ .md-button }
+[Direct Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa1.zip){ .md-button } [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5196){ .md-button }
