@@ -5,7 +5,15 @@
   <figcaption>A screenshot of the first puzzle and level from the mappack.</figcaption>
 </figure>
 
-Up and Away is a portal puzzle mappack heavly inspired by portal, Originally released on the 25th of February, 2018.
+Up and Away is a portal puzzle mappack heavly inspired by portal released for Alesan'99s Entities, Originally released on the 25th of February, 2018. It was met with less than steller reviews but we all start somewhere, nowerdays it's not really a mappack that's worth playing.
+
+## Video
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/WS6y1rA_76M" frameborder="0" allowfullscreen></iframe>
+</div>
+
+There was also a walkthrough series that was less of a walkthrough and more of a poor playthrough that dies a lot that has since been unlisted but they can now be found [here](https://www.youtube.com/playlist?list=PLJhBPl6ldR-Q2_fwyj1oS9rpZf5zDP5--).
 
 ## Credits
 
