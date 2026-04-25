@@ -32,6 +32,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+  font:
+    text: Source Sans 3
   features:
     - navigation.tabs
     - navigation.tabs.sticky
