@@ -22,7 +22,7 @@
 
     <figure markdown="span">
       ![Tileset](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/uaa3tiles.png)
-      <figcaption>The edited tileset used in the mappack.</figcaption>
+      <figcaption>The tileset used in the mappack.</figcaption>
     </figure>
 
 Up And Away 3 (Offically subtitled as "Back In Line") is a portal puzzle mappack heavly inspired by portal but with assets resembling the original SMB, based on the original mappack [Up and Away 1](https://greatbritdan.github.io/archives/mappacks/upandaway/) and released for Alesan99's Entities, Originally released on the 21st of October, 2018 being released 6+ months after the original mappack. It's aged pretty poorly and a lot of the logic is no longer functioning making it a terrible playing expirience today.
