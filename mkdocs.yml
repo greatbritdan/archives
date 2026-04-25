@@ -3,9 +3,9 @@ site_url: https://greatbritdan.github.io/archives
 nav:
 - Home: index.md
 - Mappacks:
-  - mappacks/index.md
   - Up And Away 1: mappacks/upandaway.md
   - Up And Away 2: mappacks/upandaway2.md
+  - Up And Away 3: mappacks/upandaway3.md
 
 theme:
   name: material
