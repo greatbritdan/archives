@@ -33,6 +33,10 @@ Up And Away 3 (Offically subtitled as "Back In Line") is a portal puzzle mappack
   <iframe width="1280" height="720" src="https://www.youtube.com/embed/ZaS7jdYqcJM" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## Credits
+
+Despite being mostly original, several tiles are still based on a tileset by [reapergraff](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=1350) ([Original Post](https://forum.stabyourself.net/viewtopic.php?p=68709#p68709)) 
+
 ## Links
 
 [Direct Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3.zip){ .md-button } [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5253){ .md-button }
