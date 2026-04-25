@@ -1,4 +1,4 @@
-# Up And Away (1)
+# Up And Away 1
 
 === "Mappack Card"
 
@@ -33,7 +33,7 @@ There was also a walkthrough series that was less of a walkthrough and more of a
 
 ## Credits
 
-The original tileset was by [reapergraff](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=1350) ([Original Post](https://forum.stabyourself.net/viewtopic.php?p=68709#p68709)) 
+The original tileset was based on a tileset by [reapergraff](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=1350) ([Original Post](https://forum.stabyourself.net/viewtopic.php?p=68709#p68709)) 
 
 ## Links
 

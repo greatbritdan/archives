@@ -34,6 +34,18 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@britdan
+      name: Britdan on YouTube
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/britdan.bsky.social
+      name: Britdan on Blusky
+
+copyright: Copyright &copy; 2026 Britdan
 
 plugins:
   - search
