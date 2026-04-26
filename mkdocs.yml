@@ -1,7 +1,9 @@
 site_name: Britdan Archives
 site_url: https://greatbritdan.github.io/archives
 nav:
-- Home: index.md
+- Home: 
+  - index.md
+  - Hitlist: hitlist.md
 - Mappacks:
   - Up And Away 1: mappacks/upandaway.md
   - Up And Away 2: mappacks/upandaway2.md
