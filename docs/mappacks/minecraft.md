@@ -15,7 +15,7 @@
 
     <figure markdown="span">
       ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/minecraftscreenshot.png)
-      <figcaption>A screenshot of the first puzzle and level from the mappack.</figcaption>
+      <figcaption>A screenshot of the first level from the mappack.</figcaption>
     </figure>
 
 === "Tileset"

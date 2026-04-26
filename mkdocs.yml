@@ -9,6 +9,7 @@ nav:
   - Up And Away 2: mappacks/upandaway2.md
   - Up And Away 3: mappacks/upandaway3.md
   - Minecraft: mappacks/minecraft.md
+  - Minecraft 2: mappacks/minecraft2.md
 
 theme:
   name: material
