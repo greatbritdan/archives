@@ -39,4 +39,8 @@ The original tileset was based on a tileset by [reapergraff](https://forum.staby
 
 ## Links
 
-[Direct Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa2.zip){ .md-button } [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5204){ .md-button }
+Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.
+
+[Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa2_arc.zip){ .md-button }
+[Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa2.zip){ .md-button }
+[Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5204){ .md-button }

@@ -39,4 +39,8 @@ Despite being mostly original, several tiles are still based on a tileset by [re
 
 ## Links
 
-[Direct Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3.zip){ .md-button } [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5253){ .md-button }
+Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.
+
+[Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3_arc.zip){ .md-button }
+[Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3.zip){ .md-button }
+[Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5253){ .md-button }
