@@ -13,6 +13,7 @@ nav:
   - 12 Maps Of Christmas 1: mappacks/12moc1.md
   - 24 Rooms: mappacks/24rooms.md
   - Witch Valley: mappacks/witchvalley.md
+  - Snapshot: mappacks/snapshot.md
 
 theme:
   name: material
