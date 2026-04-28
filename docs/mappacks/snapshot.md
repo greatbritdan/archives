@@ -29,7 +29,7 @@ Snapshot is a time freezing puzzle mappack released for Alesan99's Entities, Ori
 
 ## Videos
 
-There exists 2 videos of some early development of the mappack that we're made private but I'm releasing here now.
+There exists 2 videos of some early development builds of the mappack that we're made private but I'm releasing here now, with the first being VERY early.
 
 <div class="video-wrapper">
   <iframe width="1280" height="720" src="https://www.youtube.com/embed/xCB5mSS_D54" frameborder="0" allowfullscreen></iframe>

@@ -1,9 +1,5 @@
 # Up And Away 1
 
-!!! quote
-
-    *"Explore an abandoned facility in run of an evil robot. involves many fun and challenging puzzles."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -27,7 +23,7 @@
 
 Up And Away is a portal puzzle mappack heavly inspired by portal released for Alesan99's Entities, Originally released on the 25th of February, 2018. It was met with less than steller reviews but we all start somewhere, nowerdays it's not really a mappack that's worth playing.
 
-## Video
+## Videos
 
 <div class="video-wrapper">
   <iframe width="1280" height="720" src="https://www.youtube.com/embed/WS6y1rA_76M" frameborder="0" allowfullscreen></iframe>
