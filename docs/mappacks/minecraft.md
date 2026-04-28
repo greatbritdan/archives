@@ -1,9 +1,5 @@
 # Minecraft
 
-!!! quote
-
-    *"Mario finds his way into the blocky world of Minecraft and has to travel along the mincraft world to find his way back to the mushroom kingdom but actually discovers his long lost son along the way..."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -37,4 +33,5 @@ Both the original mappack as well as a fixed port are avaialble to download here
 
 [Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/minecraft_arc.zip){ .md-button }
 [Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/minecraft.zip){ .md-button }
+
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5221){ .md-button }

@@ -1,9 +1,5 @@
 # Up And Away 3
 
-!!! quote
-
-    *"After having her faculty destroyed she re-assembled her test chambers in the Mario world. after being recaptured Mario now has to explore 40+ new tests."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -43,4 +39,5 @@ Both the original mappack as well as a fixed port are avaialble to download here
 
 [Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3_arc.zip){ .md-button }
 [Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa3.zip){ .md-button }
+
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5253){ .md-button }

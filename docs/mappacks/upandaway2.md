@@ -1,9 +1,5 @@
 # Up And Away 2
 
-!!! quote
-
-    *"Explore the abandoned facility from 1 as it begins to reassemble after the fall of the robot. with 10+ new, original puzzles."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -43,4 +39,5 @@ Both the original mappack as well as a fixed port are avaialble to download here
 
 [Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa2_arc.zip){ .md-button }
 [Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/uaa2.zip){ .md-button }
+
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5204){ .md-button }

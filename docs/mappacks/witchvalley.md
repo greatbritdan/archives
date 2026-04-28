@@ -1,9 +1,5 @@
 # Witch Valley
 
-!!! quote
-
-    *"Witch Valley is a 2 world mappack made using the new entities, custom enemies properties and options (of Alesan's Entities)."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -37,4 +33,5 @@ Both the original mappack as well as a fixed port are avaialble to download here
 
 [Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/witchvalley_arc.zip){ .md-button }
 [Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/witchvalley.zip){ .md-button }
+
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5304){ .md-button }

@@ -1,9 +1,5 @@
 # Minecraft 2
 
-!!! info "Unreleased"
-
-    This mappack is unreleased, and may feature unfinished content!
-
 === "Mappack Card"
 
     <figure markdown="span">

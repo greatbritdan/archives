@@ -1,9 +1,5 @@
 # Snapshot
 
-!!! quote
-
-    *"Snapshot is a 3 world puzzle mappack made using the ability to stop time by entering grey pipes."*
-
 === "Mappack Card"
 
     <figure markdown="span">
@@ -45,4 +41,5 @@ Both the original mappack as well as a fixed port are avaialble to download here
 
 [Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/snapshot_arc.zip){ .md-button }
 [Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/snapshot.zip){ .md-button }
+
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5306){ .md-button }
