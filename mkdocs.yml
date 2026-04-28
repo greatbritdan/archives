@@ -5,6 +5,7 @@ nav:
   - index.md
   - Hitlist: hitlist.md
 - Mappacks:
+  - mappacks/index.md
   - Up And Away 1: mappacks/upandaway.md
   - Up And Away 2: mappacks/upandaway2.md
   - Up And Away 3: mappacks/upandaway3.md
