@@ -27,6 +27,18 @@
 
 Snapshot is a time freezing puzzle mappack released for Alesan99's Entities, Originally released on the 9th of September 2019. The mappack didn't feature any actual time freeze, instead making use of sublevels to emulate time being frozen. It's a really stupid map that barely qualifies as a puzzle.
 
+## Videos
+
+There exists 2 videos of some early development of the mappack that we're made private but I'm releasing here now.
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/xCB5mSS_D54" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/s06YXqiWUNk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Links
 
 Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.
