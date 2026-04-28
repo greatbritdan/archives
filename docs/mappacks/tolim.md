@@ -27,10 +27,10 @@ The Only Level Is Me is a puzzle(?) mappack where the general level design is al
 
 Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.
 
-[Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv1_arc.zip){ .md-button }
-[Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv1.zip){ .md-button }
+[Fixed Download (V1) :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv1_arc.zip){ .md-button }
+[Original Download (V1) :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv1.zip){ .md-button }
 
-[Fixed Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv2_arc.zip){ .md-button }
-[Original Download :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv2.zip){ .md-button }
+[Fixed Download (V2) :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv2_arc.zip){ .md-button }
+[Original Download (V2) :material-download:](https://github.com/greatbritdan/archives/raw/refs/heads/main/docs/assets/downloads/tolimv2.zip){ .md-button }
 
 [Original Post :material-link:](https://forum.stabyourself.net/viewtopic.php?f=12&t=5269){ .md-button }
