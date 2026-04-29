@@ -4,7 +4,7 @@ nav:
 - Home: 
   - index.md
   - Hitlist: hitlist.md
-- Mappacks:
+- Mari0 Mappacks:
   - mappacks/index.md
   - Up And Away 1: mappacks/upandaway.md
   - Up And Away 2: mappacks/upandaway2.md
@@ -19,6 +19,8 @@ nav:
   - The Candle: mappacks/thecandle.md
   - 12 Maps Of Christmas 2: mappacks/12moc2.md
   - Minecr0ft: mappacks/minecr0ft.md
+- Mari0 Mods:
+  - mappacks/index.md
 
 theme:
   name: material
