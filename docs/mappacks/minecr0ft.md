@@ -21,7 +21,7 @@
       <figcaption>The tileset used in the mappack.</figcaption>
     </figure>
 
-Minecr0ft Is a short 1 world mappack split into 6 full scale levels based on Minecraft and released for Alesan99's Entities on the 26th of April 2020. It features several areas based on the game from plains to underground to the nether and end. The mappack also comes with a built in "Creative" mode that is rather disapointing.
+Minecr0ft Is a short 1 world mappack split into 6 full scale levels based on Minecraft and released for Alesan99's Entities on the 7th of May 2020. It features several areas based on the game from plains to underground to the nether and end. The mappack also comes with a built in "Creative" mode that is rather disapointing.
 
 As well as the final version, a Demo was released that contains just the first level, it is almost the same as the final version minus some small things like lacking mobs and a custom font.
 
