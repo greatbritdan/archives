@@ -21,7 +21,7 @@
       <figcaption>The tileset used in the mappack.</figcaption>
     </figure>
 
-The Candle is a horror themed short mappack where mario explores and abandoned building of some kind and runs into an evil spirit who torments him for killing and released for Alesan99's Entities, Originally released on the 30th of October, 2018. The mappack isn't that great but still have good ambinace and atmosphere. There exists 2 seperate versions, V1 only has the first chapter as well as a hub world which was later cut, and V2 contains both chapter 1 and 2.
+The Candle is a horror themed short mappack where mario explores and abandoned building of some kind and runs into an evil spirit who torments him for killing and released for Alesan99's Entities, Originally released on the 30th of October, 2019. The mappack isn't that great but still have good ambinace and atmosphere. There exists 2 seperate versions, V1 only has the first chapter as well as a hub world which was later cut, and V2 contains both chapter 1 and 2.
 
 ## Links
 
