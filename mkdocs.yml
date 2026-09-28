@@ -3,7 +3,6 @@ site_url: https://greatbritdan.github.io/archives
 nav:
 - Home: 
   - index.md
-  - Hitlist: hitlist.md
 - Mappacks:
   - mappacks/index.md
   - Up And Away 1: mappacks/upandaway.md
@@ -19,6 +18,7 @@ nav:
   - The Candle: mappacks/thecandle.md
   - 12 Maps Of Christmas 2: mappacks/12moc2.md
   - Minecr0ft: mappacks/minecr0ft.md
+  - Hidden Ones: mappacks/hiddenones.md
 - Mods:
   - mods/index.md
 
