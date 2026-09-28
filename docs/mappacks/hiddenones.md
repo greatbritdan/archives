@@ -25,6 +25,14 @@
 
 The original version featured a working world map which also contained additonal content like bonus minigames but was removed due to issues and the functionalliy was lost to time.
 
+## Videos
+
+There's 1 video of an early development build of the mappack.
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/W6QaDIRO5xc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Credits
 
 The credits & old world map music was made by The Mari0 Bot (Outdated info)
