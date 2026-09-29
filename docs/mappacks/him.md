@@ -11,7 +11,7 @@
 
     <figure markdown="span">
       ![First Level](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/himscreenshot.png)
-      <figcaption>A screenshot of the first puzzle and level from the mappack.</figcaption>
+      <figcaption>A screenshot of the first level from the mappack.</figcaption>
     </figure>
 
 === "Tileset"
@@ -21,7 +21,11 @@
       <figcaption>The edited tileset used in the mappack.</figcaption>
     </figure>
 
-HIM is the first entry in the HIM tetrolagy, it's a horror mappack heavily inspired by Slenderman and the eight pages, it was released for Alesan99's Entities on the 29th of October, 2020. The goal is to collect 10 mushrooms before the cursed goomba catches you, it features 5 difficulties from practace to very hard. It is by far my most infamous creation, most notibly by being featured in a Blue Televison Games video which is now sitting at 1.9 Million Views as of the 28th of September, 2026.
+HIM is the first entry in the HIM tetrolagy, it's a horror mappack heavily inspired by Slenderman and the eight pages, it was released for Alesan99's Entities on the 29th of October, 2020. The goal is to collect 10 mushrooms before the cursed goomba catches you, it features 5 difficulties from practace to very hard.
+
+## Interesting Facts
+
+- It is by far my most infamous creation, most notibly by being featured in a Blue Televison Games video which is now sitting at 1.9 Million Views as of the 28th of September, 2026, cursed goombas has gone on to be featured in some facinating places, from random youtube thumbnails to redbubble skirts to litteral porn, this guy has seen the world!
 
 ## Links
 
