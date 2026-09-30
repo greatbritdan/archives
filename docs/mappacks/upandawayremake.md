@@ -18,7 +18,7 @@
 
     <figure markdown="span">
       ![Tileset](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/upandawayremaketiles.png)
-      <figcaption>The edited tileset used in the mappack.</figcaption>
+      <figcaption>The tileset used in the mappack.</figcaption>
     </figure>
 
 Up And Away Remake is a recreation of the original [Up And Away](https://greatbritdan.github.io/archives/mappacks/upandaway/) mappack, a portal puzzle mappack heavly inspired by portal, it was released for Alesan99's Entities on the 11th of July, 2020. It was a huge step up in quality and still holds up decent today.

@@ -18,7 +18,7 @@
 
     <figure markdown="span">
       ![Tileset](https://raw.githubusercontent.com/greatbritdan/archives/refs/heads/main/docs/assets/mappacks/himtiles.png)
-      <figcaption>The edited tileset used in the mappack.</figcaption>
+      <figcaption>The tileset used in the mappack.</figcaption>
     </figure>
 
 HIM is the first entry in the HIM tetrolagy, it's a horror mappack heavily inspired by Slenderman and the eight pages, it was released for Alesan99's Entities on the 29th of October, 2020. The goal is to collect 10 mushrooms before the cursed goomba catches you, it features 5 difficulties from practace to very hard.
