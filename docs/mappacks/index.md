@@ -24,7 +24,7 @@ Since the 25th of February, I have released 27 Public Mappacks.
 | [12 Maps Of Christmas 3](https://greatbritdan.github.io/archives/mappacks/12moc3/)      | Dec 23rd, 2020 |
 | [THEM](https://greatbritdan.github.io/archives/mappacks/them/)                          | Feb 28th, 2021 |
 | [YOU](https://greatbritdan.github.io/archives/mappacks/you/)                            | Jul 26th, 2021 |
-| 12 Maps Of Christmas 4 | ??? |
+| [12 Maps Of Christmas 4](https://greatbritdan.github.io/archives/mappacks/12moc4/)      | Dec 24th, 2021 |
 | [US](https://greatbritdan.github.io/archives/mappacks/us/)                              | Mar 27th, 2022 |
 | Hidden Ones - Lies Awaken | ??? |
 | US - Holiday Version | ??? |
