@@ -23,6 +23,12 @@
  
 YOU is the third entry in the HIM tetrolagy, it was released for Alesan99's Entities on the 26th of July, 2021. The goal is to collect 4 key pieces and escape before the cursed goomba catches you, there are also 2 different him varients that try to halt you, it features 4 different modes.
 
+## Videos
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/Eghc2KVAJow" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Links
 
 Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.

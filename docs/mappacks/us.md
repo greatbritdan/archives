@@ -23,6 +23,12 @@
  
 US is the final entry in the HIM tetrolagy, it was released for Alesan99's Entities on the 27th of March, 2022. The goal changes with each mode but features challenges like collecting 8 mushrooms, flipping 4 switches and surviving a set amount of time. All before the cursed goomba catches you, there are also 4 different him varients that try to halt or annoy you, it features 10 different modes.
 
+## Videos
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/NzYaajeJ6hY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Credits
 
 Several enemies and mechanics (HIM, Improved slingshot, switches, buff him, etc) was made by [WilliamFrog](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=4261).

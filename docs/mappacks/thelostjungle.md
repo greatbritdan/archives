@@ -23,6 +23,14 @@
  
 The Lost Jungle is a 1 level mappack that was made with the "assistance" of Chat GPT for a video. It was released for Alesan99's Entities on the 7th of January, 2023.
 
+## Videos
+
+This is the video the mappack was created for.
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/o4QgB3ZnYfQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Links
 
 Both the original mappack as well as a fixed port are avaialble to download here. The port only fixes issues caused since release due to AE updates, No content has been changed. I recommend using the fixed port as the original version is here mainly for archival purposes.

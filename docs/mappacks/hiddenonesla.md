@@ -23,6 +23,12 @@
 
 Hidden Ones Lies Awaken is a semi-open world mappack where you must collect purple coins within multiple areas, it was released for Alesan99's Entities on the 1st of August, 2022, It features 4 main areas and 4 bonus areas. The mappack features several custom mechanics such as a waypoint system allowing fast travel between parts of the map and quick respawn checkpoints that function without restarting the level. It also features a custom Dialog system that allows for more flexibility.
 
+## Videos
+
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/dRF1Mt0ERFI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Credits
 
 Tons of enemies and general help by [WilliamFrog](https://forum.stabyourself.net/memberlist.php?mode=viewprofile&u=4261).
