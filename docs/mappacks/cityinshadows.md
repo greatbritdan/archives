@@ -24,8 +24,14 @@
 City In Shadows is a halloween themed platformer released for Alesan99's Entities, Originally released on the 24th of December, 2021. It features 4 levels and also includes 2 versions of a tower boss.
 
 ## Credits
+!!! warning "AI Slop"
+
+    This artist now makes AI music, This music was picked before this happened and I do not support them or their work!
+
 [Forest Theme](https://youtu.be/VUh7WCDolG8?si=pBsnGoSsuHA7hSCr) made by [Pix](https://www.youtube.com/@Pixverses).
+
 [City Theme](https://youtu.be/VUHcyGeFP-A?si=jh9jM9J3b09IDnVc) made by [Pix](https://www.youtube.com/@Pixverses).
+
 [Tower Theme](https://youtu.be/2Mg6b0LJfM8?si=KPBNeR69tVK3zkIh) made by [Pix](https://www.youtube.com/@Pixverses).
 
 ## Links

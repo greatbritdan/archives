@@ -30,4 +30,4 @@ Since the 25th of February, I have released 27 Public Mappacks.
 | [US - Holiday Edition](https://greatbritdan.github.io/archives/mappacks/usholiday/)         | Dec 22nd, 2022 |
 | [The Lost Jungle](https://greatbritdan.github.io/archives/mappacks/thelostjungle/)          | Jan 7th, 2023  |
 | [City In Shadows](https://greatbritdan.github.io/archives/mappacks/cityinshadows/)          | Nov 26th, 2023 |
-| 12 Maps Of Christmas 5 | ??? |
+| [12 Maps Of Christmas 5](https://greatbritdan.github.io/archives/mappacks/12moc5/)          | Dec 31st, 2024 |
