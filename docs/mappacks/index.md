@@ -29,5 +29,5 @@ Since the 25th of February, I have released 27 Public Mappacks.
 | [Hidden Ones - Lies Awaken](https://greatbritdan.github.io/archives/mappacks/hiddenonesla/) | Aug 1st, 2022  |
 | [US - Holiday Edition](https://greatbritdan.github.io/archives/mappacks/usholiday/)         | Dec 22nd, 2022 |
 | [The Lost Jungle](https://greatbritdan.github.io/archives/mappacks/thelostjungle/)          | Jan 7th, 2023  |
-| City In Shadows | ??? |
+| [City In Shadows](https://greatbritdan.github.io/archives/mappacks/cityinshadows/)          | Nov 26th, 2023 |
 | 12 Maps Of Christmas 5 | ??? |
